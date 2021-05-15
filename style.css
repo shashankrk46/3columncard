@@ -78,6 +78,10 @@ button {
   }
 }
 @media (max-width: 600px) {
+  body {
+    height: 80vh;
+    padding: 0px 20px;
+  }
   .container {
     grid-template-columns: 190px 190px 190px;
     height: 280px;
@@ -91,6 +95,7 @@ button {
 }
 @media (max-width: 500px) {
   body {
+    height: 70vh;
     padding: 0px 20px;
   }
   .container {
