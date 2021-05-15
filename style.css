@@ -79,7 +79,7 @@ button {
 }
 @media (max-width: 600px) {
   body {
-    height: 90vh;
+    height: 75vh;
     padding: 0px 20px;
   }
   .container {
